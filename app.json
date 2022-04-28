@@ -1,0 +1,8 @@
+{
+  "name": "heroku-mysql",
+  "description": "deploy mysql on heroku",
+  "keywords": ["heroku mysql"],
+  "website": "https://github.com/ivwv/vme-h-0213",
+  "repository": "https://github.com/ivwv/vme-h-0213",
+  "stack": "container"
+}
